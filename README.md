@@ -1,4 +1,4 @@
-# AstraMind — Modular AI Agent Orchestration System
+# AstraMind: Modular AI Agent Orchestration System
 
 Smart, extensible platform for orchestrating multi-agent workflows, Retrieval-Augmented Generation (RAG) with FAISS, and domain workflows for customer intelligence and financial planning.
 
