@@ -18,7 +18,7 @@ Smart, extensible platform for orchestrating multi-agent workflows, Retrieval-Au
 
 1. Clone and prepare environment
 ```bash
-git clone <repo-url>
+git clone https://github.com/yatesh12/AstraMind-Modular-AI-Agent-Orchestration-System.git
 cd astramind
 python -m venv .venv
 # Windows
@@ -91,7 +91,6 @@ streamlit run rag_system/streamlit_app.py
 - Follow existing code patterns for prompts, tools, and schema validation.  
 - Add or update notebooks and demo flows when adding new capabilities.
 
----
 
 ## License
 Add a LICENSE file to declare project licensing. If you want a recommendation, the **Apache 2.0** or **MIT** license are industry-standard and permissive.
